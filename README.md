@@ -1,5 +1,10 @@
 # 2024 CZ CryoET ML Challenge
 
+- [Competition launch page](https://cryoetdataportal.czscience.com/competition)  
+- TBA Competition entry page
+
+## Overview
+
 This repository contains notebooks to facilitate entries in the CZ CryoET ML Challenge. These notebooks are organized as follows:
 
 - [overview.ipynb](https://github.com/czimaginginstitute/2024_czii_mlchallenge_notebooks/blob/main/overview.ipynb): how to use, visualize, process, and sample the cryoET datasets
@@ -22,3 +27,10 @@ copick-torch [GitHub repository](https://github.com/copick/copick-torch)
 
 DeepFindET [GitHub repository](https://github.com/copick/DeepFindET)
 
+## Code of Conduct
+
+This project adheres to the Contributor Covenant [code of conduct](https://github.com/chanzuckerberg/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
+
+## Reporting Security Issues
+
+If you believe you have found a security issue, please responsibly disclose by contacting us at [security@chanzuckerberg.com](mailto:security@chanzuckerberg.com).
