@@ -1,5 +1,10 @@
 # 2024 CZ CryoET ML Challenge
 
+- [Competition launch page](https://cryoetdataportal.czscience.com/competition)  
+- TBA Competition entry page
+
+## Overview
+
 This repository contains notebooks to facilitate entries in the CZ CryoET ML Challenge. These notebooks are organized as follows:
 
 - overview.ipynb: how to use, visualize, process, and sample the datasets
