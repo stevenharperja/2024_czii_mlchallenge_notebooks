@@ -139,7 +139,7 @@ def run_tomotwin_embedding_calculation(
         stride (int, optional): The stride value. Defaults to 2.
         batchsize (int, optional): The batch size. Defaults to 64.
     """
-
+    print("input_mrc_path:", input_mrc_path)
     # Construct the command to run the tomoslice.py script
     command = [
         "tomotwin_embed.py",
